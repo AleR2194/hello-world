@@ -1,2 +1,4 @@
 # hello-world
-prova 0 - store di pensieri
+ prova 0 - store di pensieri
+
+Ciao a tutti
